@@ -1,0 +1,46 @@
+body{
+    background-color:grey;
+}
+
+#para-1{
+    background-color: red;
+}
+.specia{
+    background-color:red;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}
+h2, pre{
+    font-size: 1em
+}
+button{
+    background-color: red; width:50px; height:30px;
+}
+#para-3{
+    background-color: red;
+}
+.para2{
+    background-color: red;
+    border-radius: 5px;
+    width:150px;
+}
+#para2{
+    background-color: white;
+    
+}
+.leo{
+     background:url(img7.jpeg);
+     width:80%;
+     height:50%;
+}
+.leo1{
+    font-size: 3em;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+}
+.kad{
+    background-color: rgb(49, 5, 5);
+    border-radius: 20px;
+}
